@@ -1,0 +1,13 @@
+content:
+- How to read the documentation
+- How to read a traceback
+- Regexps in Python
+- Regexp sets and ranges
+- Shorthands
+- Regexp quantifiers
+- Tokenization
+- Nested lists
+- Slicing
+- Operations with dictionary
+- Defaultdict and Counter
+- Search in a string
